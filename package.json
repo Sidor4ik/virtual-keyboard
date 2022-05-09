@@ -1,0 +1,31 @@
+{
+	"name": "virtual-keyboard",
+	"version": "1.0.0",
+	"description": "",
+	"main": "key.js",
+	"scripts": {
+		"lint": "eslint ./",
+		"lint:fix": "eslint ./"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/Sidor4ik/virtual-keyboard.git"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/Sidor4ik/virtual-keyboard/issues"
+	},
+	"homepage": "https://github.com/Sidor4ik/virtual-keyboard#readme",
+	"devDependencies": {
+		"eslint": "^8.15.0",
+		"eslint-config-airbnb": "^19.0.4",
+		"eslint-config-prettier": "^8.5.0",
+		"eslint-plugin-html": "^6.2.0",
+		"eslint-plugin-import": "^2.26.0",
+		"eslint-plugin-jsx-a11y": "^6.5.1",
+		"eslint-plugin-prettier": "^4.0.0",
+		"prettier": "^2.6.2"
+	}
+}
